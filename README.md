@@ -8,7 +8,7 @@ The dataset contains different types of problems like missing values, duplicate 
 
 ## 📌 About The Project
 
-For this project, I worked with a dirty cafe sales dataset and performed different data cleaning and analysis operations using Pandas.
+For this project, I worked with a dirty cafe sales dataset and performed different data cleaning and analysis operations using the libraries of python.
 
 I started with the raw dataset and checked its structure, missing values, duplicate records and data types.
 
@@ -56,7 +56,7 @@ The main objectives of this project are:
 
 ## 📂 Project Structure
 
-```text
+text
 dirty-cafe-sales-analysis/
 │
 ├── data/
