@@ -56,7 +56,7 @@ The main objectives of this project are:
 
 ## 📂 Project Structure
 
-text
+```text
 dirty-cafe-sales-analysis/
 │
 ├── data/
